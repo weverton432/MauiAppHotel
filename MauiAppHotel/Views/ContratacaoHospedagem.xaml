@@ -11,8 +11,8 @@
                          Spacing="10">
 
         <Label Text="Cálculo da Diária"
-               FontFamily="Kalam"
-               FontSize="50"
+               FontFamily="Rubik"
+               FontSize="30"
                TextColor="{StaticResource Primary}" />
 
         <Frame Padding="10">
